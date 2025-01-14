@@ -1,0 +1,5 @@
+package com.minjin.portfolio.domain.constant
+
+enum class SkillType {
+    LANGUAGE, FRAMEWORK, DATABASE, TOOL
+}
